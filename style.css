@@ -7,48 +7,7 @@ body {
   margin: 0;
 }
 
-
-h1 {
-    background: #483434;
-    color: #fff;
-    display: inline-block;
-    font-weight: normal;
-    font-size: 3.2 em;
-    padding: 0.5em 1em;
-    text-transform: uppercase;
-    border-bottom: none;
-  }
-
-  p {
-    font-weight: normal;
-    font-size: 1em;
-    line-height: normal;
-   
-    text-align: justify;
-    line-height: 2;
-    margin: 0.75em;
-  }
-
-  a {
-    font-weight: normal;
-    font-size: 1em;
-    line-height: normal;
-   
-    text-decoration: none;
-    font-weight: bold;
-  }
-
-a:hover, a:focus {
-    text-decoration: underline;
-  }
-
-ul {
-    list-style-type:none;
-    margin: 0;
-    padding: 0;
-  }
-
-  /* Style the header */
+/* Style the header */
 .header {
   background-color: #f1f1f1;
   padding: 20px;

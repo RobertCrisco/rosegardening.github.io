@@ -73,7 +73,7 @@ body {
 }
 
 #bannerimage {
-  background-image: url(images/headbanner.png);
+  background-image: url(headbanner.png);
   background-color: #AB5248;
   background-position: center;
 }

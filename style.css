@@ -1,9 +1,33 @@
 body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+h1 {
+    background: #483434;
+    color: #fff;
+    display: inline-block;
+    font-weight: normal;
+    font-size: 3.2 em;
+    padding: 0.5em 1em;
+    text-transform: uppercase;
+    border-bottom: none;
+  }
+
+  p {
+    font-weight: normal;
+    font-size: 1em;
+    line-height: normal;
+    font-family: "Didot", "Bodoni MT", "Palatino";
+    text-align: justify;
+    line-height: 2;
+    margin: 0.75em;
+  }
+
+
+a:hover, a:focus {
+    text-decoration: underline;
+  }
 
 ul {
     list-style-type:none;
     margin: 0;
     padding: 0;
   }
+

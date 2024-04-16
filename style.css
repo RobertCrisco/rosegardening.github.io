@@ -75,7 +75,8 @@ body {
 #bannerimage {
   background-image: url(headbanner.png);
   background-color: #AB5248;
-  background-position: center;
-  width:1200px;
-  height:250px;
+  height: 250px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }

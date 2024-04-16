@@ -71,3 +71,11 @@ body {
   padding: 10px;
   text-align: center;
 }
+
+#bannerimage {
+  width: 100%;
+  background-image: url(images/headbanner.webp);
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
